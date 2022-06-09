@@ -6,7 +6,7 @@ of them are AGB(asymptotic giant branch, The asymptotic giant branch (AGB) is a 
 Hertzsprung–Russell diagram populated by evolved cool luminous stars. This is a period of
 stellar evolution undertaken by all low- to intermediate-mass stars (0.6–10 solar masses) late in
 their lives.) stars.
-\\
+\n
 Detecting AGB variable stars is a powerful tool in reconstructing the star formation history of a
 galaxy as these stars are in the final stages of their evolution and hence their luminosity is more
 directly related to their birth mass than less-evolved AGB stars that still undergo significant
@@ -14,7 +14,7 @@ evolution in luminosity. They are also one of the most important sources of prod
 universe, therefore, they help star formation. Detected variable AGB stars through “Machine
 learning” can help follow-up observations which are searching for the origin of dust sources in
 the universe.
-\\
+\n
 Data set was obtained in J, K and H band with UIST, UFTI, WFCAM instruments(UKIRT data),
 but the most extensive data set was obtained in the K band with the UIST instrument for the
 central 4 × 4 arcmin^2 (1 kpc^2) – this contains the nuclear star cluster and inner disc. These
